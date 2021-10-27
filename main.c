@@ -5,7 +5,5 @@ int main(int argc, const char* argv[]) {
   scanf("%d", &age);
   printf("%d", age);
 
-  
-
   return 0;
 }
